@@ -1,0 +1,13 @@
+{
+  "Profiles": [
+    {
+      "Name": "Dev",
+      "Guid": "8E4C1D2A-5B7F-4F3E-9A61-2C0D7E9B4F10",
+      "Dynamic Profile Parent Name": "Default",
+      "Silence Bell": true,
+      "Flashing Bell": false,
+      "Visual Bell": false,
+      "BM Growl": false
+    }
+  ]
+}
